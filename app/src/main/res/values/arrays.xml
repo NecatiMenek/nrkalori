@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="activity_levels_array">
+        <item>Az Aktif</item>
+        <item>Hafif Aktif</item>
+        <item>Orta Aktif</item>
+        <item>Çok Aktif</item>
+        <item>Aşırı Aktif</item>
+    </string-array>
+</resources>
